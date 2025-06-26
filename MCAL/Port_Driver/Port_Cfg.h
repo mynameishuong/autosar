@@ -4,10 +4,6 @@
  *  @details File này chứa các định nghĩa cấu hình các chân Port
  *           cho driver Port theo chuẩn AUTOSAR, dùng trên
  *           STM32F103 với thư viện SPL.
- *
- *  @version 1.0
- *  @date    2024-06-19
- *  @author  HALA Academy
  ***********************************************************/
 
 #ifndef PORT_CFG_H
